@@ -8,28 +8,6 @@ This repository contains a simple web application for sentiment analysis using t
 - **Real-time Word Count**: The app displays the word count of the input text and limits the input to a maximum of 50 words.
 - **Reset Functionality**: Users can reset the input text area using the reset button.
 
-## How to Run the App
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-web-app.git
-    cd sentiment-analysis-web-app
-    ```
-
-2. **Install Dependencies**:
-    Ensure you have Python installed. Then, install the required packages:
-    ```bash
-    pip install transformers streamlit
-    ```
-
-3. **Run the Application**:
-    ```bash
-    streamlit run app.py
-    ```
-
-4. **Open the App**:
-    Open your web browser and go to `http://localhost:8501` to use the app.
-
 ## Code Overview
 
 ### `model.py`
