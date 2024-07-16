@@ -34,7 +34,3 @@ This repository contains a simple web application for sentiment analysis using t
 
 - `transformers`: For the sentiment analysis model.
 - `streamlit`: For building the web app interface.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
