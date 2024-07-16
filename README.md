@@ -2,6 +2,9 @@
 
 This repository contains a simple web application for sentiment analysis using the `transformers` library and the `Streamlit` framework. The app allows users to input a sentence and get its sentiment (positive or negative) with a confidence score.
 
+![UI](https://github.com/yourusername/yourrepository/raw/main/example-image.png)
+
+
 ## Features
 
 - **Sentiment Analysis**: The app uses the `distilbert/distilbert-base-uncased-finetuned-sst-2-english` model from Hugging Face's `transformers` library to perform sentiment analysis.
